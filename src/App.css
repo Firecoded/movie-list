@@ -4,18 +4,14 @@
   align-items: center;
   justify-content: center;
   height: 100vh;
+  background-image: url('./assets/images/coruscant-star-wars--min.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 .App{
-  border: 1px solid red;
+  
 }
 
 
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
