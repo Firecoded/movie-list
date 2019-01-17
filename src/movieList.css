@@ -11,3 +11,9 @@
     text-shadow: 0 0 5px gold;
     letter-spacing: 2px;
 }
+
+@media only screen and (max-width: 685px) {
+    .header-text{
+        font-size: 24px;
+    }
+  }

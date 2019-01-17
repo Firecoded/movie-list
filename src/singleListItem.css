@@ -4,6 +4,7 @@
 }
 .list-item p{
     font-family: rebellion;
+    margin: 15px 5px;
     padding: 0 10px;
     display: inline-block;
     right: 0;
@@ -65,3 +66,9 @@
 .grayed-out-text{
     color: rgb(75, 74, 74);
 }
+
+@media only screen and (max-width: 685px) {
+    .list-item p{
+        font-size: 12px;
+    }
+  }
