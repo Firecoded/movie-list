@@ -8,4 +8,4 @@ This project was built with React using the Create React App boilerplate. I cons
 
 ### Demo
 
-The list was built and hosted on Netlify and can be viewed by clicking this link - []()
+The list was built and hosted on Netlify and can be viewed by clicking this link - [https://lucid-snyder-4c1606.netlify.com/](https://lucid-snyder-4c1606.netlify.com/)
